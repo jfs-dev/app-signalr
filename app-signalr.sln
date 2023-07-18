@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-signalr-server", "app-signalr-server\app-signalr-server.csproj", "{21F5AE4A-97D6-44BB-9FB3-3F018C41A240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-signalr-client", "app-signalr-client\app-signalr-client.csproj", "{A8530014-F273-4AEF-A4AE-6B050A22BC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F5AE4A-97D6-44BB-9FB3-3F018C41A240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F5AE4A-97D6-44BB-9FB3-3F018C41A240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F5AE4A-97D6-44BB-9FB3-3F018C41A240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F5AE4A-97D6-44BB-9FB3-3F018C41A240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8530014-F273-4AEF-A4AE-6B050A22BC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8530014-F273-4AEF-A4AE-6B050A22BC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8530014-F273-4AEF-A4AE-6B050A22BC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8530014-F273-4AEF-A4AE-6B050A22BC38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
